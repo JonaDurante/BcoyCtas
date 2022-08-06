@@ -1,0 +1,15 @@
+E:\Repos\Nico Ejercicio 2\Nico Ejercicio 2\bin\Debug\net6.0\Nico Ejercicio 2.exe
+E:\Repos\Nico Ejercicio 2\Nico Ejercicio 2\bin\Debug\net6.0\Nico Ejercicio 2.deps.json
+E:\Repos\Nico Ejercicio 2\Nico Ejercicio 2\bin\Debug\net6.0\Nico Ejercicio 2.runtimeconfig.json
+E:\Repos\Nico Ejercicio 2\Nico Ejercicio 2\bin\Debug\net6.0\Nico Ejercicio 2.dll
+E:\Repos\Nico Ejercicio 2\Nico Ejercicio 2\bin\Debug\net6.0\Nico Ejercicio 2.pdb
+E:\Repos\Nico Ejercicio 2\Nico Ejercicio 2\obj\Debug\net6.0\Nico Ejercicio 2.csproj.AssemblyReference.cache
+E:\Repos\Nico Ejercicio 2\Nico Ejercicio 2\obj\Debug\net6.0\Nico Ejercicio 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Nico Ejercicio 2\Nico Ejercicio 2\obj\Debug\net6.0\Nico Ejercicio 2.AssemblyInfoInputs.cache
+E:\Repos\Nico Ejercicio 2\Nico Ejercicio 2\obj\Debug\net6.0\Nico Ejercicio 2.AssemblyInfo.cs
+E:\Repos\Nico Ejercicio 2\Nico Ejercicio 2\obj\Debug\net6.0\Nico Ejercicio 2.csproj.CoreCompileInputs.cache
+E:\Repos\Nico Ejercicio 2\Nico Ejercicio 2\obj\Debug\net6.0\Nico Ejercicio 2.dll
+E:\Repos\Nico Ejercicio 2\Nico Ejercicio 2\obj\Debug\net6.0\refint\Nico Ejercicio 2.dll
+E:\Repos\Nico Ejercicio 2\Nico Ejercicio 2\obj\Debug\net6.0\Nico Ejercicio 2.pdb
+E:\Repos\Nico Ejercicio 2\Nico Ejercicio 2\obj\Debug\net6.0\Nico Ejercicio 2.genruntimeconfig.cache
+E:\Repos\Nico Ejercicio 2\Nico Ejercicio 2\obj\Debug\net6.0\ref\Nico Ejercicio 2.dll
